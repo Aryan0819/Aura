@@ -1,6 +1,7 @@
 # Aura Shield 🛡️
 
 **Aura Shield** is an AI-powered Android application designed to protect your cognitive load by intercepting and analyzing incoming notifications from social apps like WhatsApp and Instagram. It provides real-time sentiment analysis, stress scoring, and smart reply suggestions to help you maintain digital well-being.
+
 [![Android Target SDK](https://img.shields.io/badge/Target%20SDK-34-brightgreen.svg)](https://developer.android.com)
 [![Minimum SDK](https://img.shields.io/badge/Min%20SDK-26-orange.svg)](https://developer.github.com/v8.0)
 [![Architecture](https://img.shields.io/badge/Architecture-MVVM%20%2B%20StateFlow-blue.svg)]()
