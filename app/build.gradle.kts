@@ -5,11 +5,7 @@ plugins {
 
 android {
     namespace = "com.aryan.aura"
-    compileSdk {
-        version = release(36) {
-            minorApiLevel = 1
-        }
-    }
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.aryan.aura"
